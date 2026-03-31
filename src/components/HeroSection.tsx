@@ -35,7 +35,7 @@ const HeroSection = () => (
             </Button>
           </a>
           <a href="tel:07066312444">
-            <Button size="lg" variant="outline" className="border-primary-foreground/30 text-primary-foreground hover:bg-primary-foreground/10 text-base px-8">
+            <Button size="lg" variant="outline" className="border-2 border-primary-foreground text-primary-foreground bg-primary-foreground/10 hover:bg-primary-foreground/20 text-base px-8">
               <Phone size={18} className="mr-2" /> Call Now
             </Button>
           </a>
